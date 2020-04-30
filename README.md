@@ -10,4 +10,4 @@
 -  Result build folder `dist`
 
 ## Runnign on Browser
--- `httpL//localhost:8081`
+-- `http://localhost:8081`
